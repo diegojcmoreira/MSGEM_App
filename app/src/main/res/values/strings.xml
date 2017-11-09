@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MSGEM</string>
+    <string name="username_hint">Digite seu usuario</string>
+    <string name="password_hint">Digite sua Senha</string>
+    <string name="login_button">Entrar</string>
+
+</resources>

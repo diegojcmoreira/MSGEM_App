@@ -1,0 +1,13 @@
+#Wed Nov 08 23:13:49 BRST 2017
+renamed.3=classes.dex
+renamed.2=classes2.dex
+renamed.1=classes3.dex
+renamed.0=classes4.dex
+base.3=C\:\\Users\\diego\\Downloads\\Http\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_6ac24fa7f21d99be2ad78f2e6ae3bf35c86d588d
+base.2=C\:\\Users\\diego\\Downloads\\Http\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8bb67c76b5727a4dc53f96e350892232cb651b57
+base.1=C\:\\Users\\diego\\Downloads\\Http\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.1_29d4685e3e0bb912e5026669cbfc2bc81b469970
+base.0=C\:\\Users\\diego\\Downloads\\Http\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.1.1_f763eeed6982a17d52c6cfba57e4e06783744188
+file.3=C\:\\Users\\diego\\Downloads\\Http\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_6ac24fa7f21d99be2ad78f2e6ae3bf35c86d588d\\classes.dex
+file.2=C\:\\Users\\diego\\Downloads\\Http\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8bb67c76b5727a4dc53f96e350892232cb651b57\\classes.dex
+file.1=C\:\\Users\\diego\\Downloads\\Http\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.1_29d4685e3e0bb912e5026669cbfc2bc81b469970\\classes.dex
+file.0=C\:\\Users\\diego\\Downloads\\Http\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.1.1_f763eeed6982a17d52c6cfba57e4e06783744188\\classes.dex

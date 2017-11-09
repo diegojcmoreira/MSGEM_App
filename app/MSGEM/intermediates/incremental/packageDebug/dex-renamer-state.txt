@@ -1,0 +1,7 @@
+#Thu Nov 09 00:18:10 BRST 2017
+base.0=C\:\\Users\\diego\\Downloads\\Http\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d505edf5be6f18a3af484066e0e00b48eaed5cd2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\diego\\Downloads\\Http\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_13d6f94178a0f7188f2fcbf8c5ed88e1da2b6809\\classes.dex
+base.1=C\:\\Users\\diego\\Downloads\\Http\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_13d6f94178a0f7188f2fcbf8c5ed88e1da2b6809
+file.0=C\:\\Users\\diego\\Downloads\\Http\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d505edf5be6f18a3af484066e0e00b48eaed5cd2\\classes.dex
